@@ -1,0 +1,5 @@
+Building a GraphQL Server [Part 2] - Server & Express GraphQL Setup
+src : https://www.youtube.com/watch?v=qqzIA1BQ_ys
+author : traversy media
+
+npm install graphql express express-graphql nodemon
